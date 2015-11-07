@@ -5,7 +5,7 @@
 #1  #  "Français"		// LANGUAGE ID
 #2  #  "Benjamin Siskoo"			// Author
 #3  #  "2.2"			// Version
-#4  #  "6 Mai 2015"		// Date
+#4  #  "7 Novembre 2015"		// Date
 
 //About DLL Dialog
 #5  #  "Langue actuelle"
@@ -54,7 +54,7 @@
 
 //Options Menu
 #140#  "&Options"
-#141#  "&Plein écran"
+#141#  "&Plein Ecran"
 #142#  "&Toujours visible"
 #143#  "Configurer le plugin graphique…"
 #144#  "Configurer le plugin audio…"
@@ -340,8 +340,9 @@
 #687#  "Tout Réinitialiser"
 #688#  "Aucun jeu lancé"
 #689#  "Un jeu est lancé"
-#690#  "Un jeu est lancé (fenêtré)"
-#691#  "Un jeu est lancé (plein écran)"
+#690#  "Un jeu est lancé (Fenêtré)"
+#691#  "Un jeu est lancé (Plein Ecran)"
+#692#  "Détection de la Touche"
 
 // Frame Rate Option
 #700#  "Interruptions verticales par seconde"
@@ -356,6 +357,7 @@
 #720#  "Réinitialiser la page"
 #721#  "Tout réinitialiser"
 #722#  "Appliquer"
+#723#  "Fermer"
 
 /*********************************************************************************
 * ROM Information                                                                *
